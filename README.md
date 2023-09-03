@@ -7,3 +7,6 @@ Part 2:
 - Created a Program which takes a JSON file as input with AVL tree operations
 - Creates an AVL tree using the operations described in the file (modifying it as needed)
 - Prints the final AVL tree as a JSON object 
+
+Part 3:
+- Created Autograded to run 100 Test cases on AVL tree ensuring all operations work properly
